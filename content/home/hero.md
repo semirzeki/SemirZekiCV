@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
 
-title = "Academic"
+title = "Dr Sebastian Zeki"
 
 # Order that this section will appear in.
 weight = 3
@@ -20,18 +20,17 @@ weight = 3
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "./post/getting-started/"
-  label = '<i class="fas fa-download"></i> Install Now'
+  #url = "./post/getting-started/"
+  #label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-Dr Sebastian Zeki MBBS MRCP MA MSc MRCP :rocket:
+ MBBS MRCP MA MSc MRCP :rocket:
 Gastroenterology Consultant
 St Thomas' Hospital, London
 <div style="margin-top: -0.5rem;">
   <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
-  Latest release <!-- V -->
-  </a>
+  </a> 
 </div>
 <div class="mt-3">
-  <a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" aria-label="Star this on GitHub">Star</a>
+  <a class="github-button"  ></a>
 </div>
