@@ -10,6 +10,7 @@ baseurl = "/"
 
 baseURL = "https://sebastiz.github.io/SebZeki_CV/"
 publishDir = "docs"
+relativeURLs = true
 
 # Title of your site
 title = "Academic"
