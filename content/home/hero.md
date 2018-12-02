@@ -25,6 +25,8 @@ weight = 3
 +++
 
 Dr Sebastian Zeki MBBS MRCP MA MSc MRCP :rocket:
+Gastroenterology Consultant
+St Thomas' Hospital, London
 <div style="margin-top: -0.5rem;">
   <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
   Latest release <!-- V -->
