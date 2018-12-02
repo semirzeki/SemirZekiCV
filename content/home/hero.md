@@ -26,6 +26,11 @@ weight = 3
 
 Dr Sebastian Zeki MBBS MRCP MA MSc MRCP :rocket:
 <div style="margin-top: -0.5rem;">
+  <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
+  Latest release <!-- V -->
+  </a>
 </div>
-
+<div class="mt-3">
+  <a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
+</div>
 
