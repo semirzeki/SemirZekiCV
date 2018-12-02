@@ -35,6 +35,5 @@ weight = 5
 
 # Biography
 
-Sebastian Zeki is a consulant gastroenterologist at St Thomas' Hospital in London. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sebastian Zeki is a consulant gastroenterologist at St Thomas' Hospital in London. His research interests include upper gastrointestinal physiology, upper gastrointestinal cancer, natural language programming and quality metrics in endoscopy. He co-leads the Gastroenterology data sciences Institute in London.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
