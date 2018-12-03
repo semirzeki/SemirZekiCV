@@ -22,6 +22,36 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
+  icon = "user-md"
+  icon_pack = "fas"
+  name = "Gastroenterology"
+  description = "10%"
+  
+[[feature]]
+  icon = "user-md"
+  icon_pack = "fas"
+  name = "Endoscopic therapy"
+  description = "10%"
+  
+[[feature]]
+  icon = "user-md"
+  icon_pack = "fas"
+  name = "Gastrointestinal cancer"
+  description = "10%"
+  
+[[feature]]
+  icon = "user-md"
+  icon_pack = "fas"
+  name = "Eosinophilic oesophagitis"
+  description = "10%"
+  
+[[feature]]
+  icon = "user-md"
+  icon_pack = "fas"
+  name = "Oesophageal physiology"
+  description = "10%"
+  
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -30,13 +60,8 @@ weight = 7
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Gastroenterology data science"
   description = "100%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
 
 +++

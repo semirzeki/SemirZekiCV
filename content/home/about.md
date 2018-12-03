@@ -22,19 +22,30 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+course = "PhD - Genomics of Barrett's related malignancy"
+institution = "University of London"
+year = 2013
+
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+course = "Member of the Royal College of Physician"
+institution = "Stanford University"
+year = 2006
+  
+[[education.courses]]
+course = "MSc Health Informatics"
+institution = "City University"
+year = 2003
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MBBS MBChir Medicine"
+  institution = "University College London"
+  year = 2001
+
+[[education.courses]]
+  course = "MA in experimental psychology"
+  institution = "Cambridge University"
+  year = 1998
  
 +++
 
