@@ -37,14 +37,13 @@ date_format = "January 2006"
 [[experience]]
   title = "PhD student"
   company = "Queen Mary University of London"
-  company_url = "http://cambridge.academia.edu/SZeki"
+  company_url = "http://www.researchpublications.qmul.ac.uk/publications/staff/27307.html"
   location = "London"
   date_start = "2010-01-01"
 
 [[experience]]
   title = "Gastroenterology registrar"
   company = "North West Thame's Training Rotation"
-  company_url = "http://cambridge.academia.edu/SZeki"
   location = "London"
   date_start = "2006-01-01"
 
