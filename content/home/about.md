@@ -10,9 +10,14 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Endoscopic therapy",
+    "Oesophageal/stomach cancers",
+    "Oesophageal physiology",
+    "Eosinophilic oesophagitis",
+    "Genomics of gatrointestinal cancers",
+    "Natural language programming",
+    "Machine learning",
+    "R"
   ]
 
 # List your qualifications (such as academic degrees).
