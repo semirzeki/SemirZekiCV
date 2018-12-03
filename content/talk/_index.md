@@ -12,4 +12,5 @@ list_format = 2
 [header]
 image = ""
 caption = ""
+exclude_selected = true
 +++
