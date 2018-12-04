@@ -1,10 +1,11 @@
 +++
-title = "Mobile visual clothing search"
+title = "Multidisciplinary approach to the management of adult eosinophilic oesophagitis in the United Kingdom"
 date = 2013-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["Hannah Hunter", "Kristina Pupinyte","Terry Wong","Sebastian Zeki","Jason M. Dunn","Evelyn Toner","Stephen J. Till"," Miranda C. E. Lomer"]
+            
 
 # Publication type.
 # Legend:
@@ -15,15 +16,15 @@ authors = ["GA Cushen", "MS Nixon"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "In *Clin Exp Allergy. 2018 Dec;48(12):1752-1756. Epub 2018 Oct 12.*"
+#publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "Dietary intervention is effective for the management of eosinophilic oesophagitis (EoE) in both adults and children. The majority of research has been conducted in Spain or the United States, with no studies of dietary intervention published in the United Kingdom. Restrictive elimination diets can be challenging and swallowed topical corticosteroids have also been shown to be an effective treatment in adults. Despite their efficacy, disadvantages include risk of candidiasis,3 potential long‐term effects such as adrenal suppression3 and off‐label medication use. Proton pump inhibitors (PPIs) are effective for a proportion of patients  although with both PPIs and corticosteroids, the underlying triggers of this presumed antigen‐mediated condition are not identified and continued use is required to maintain efficacy. A key aspect in the management of any allergic disease is avoidance of relevant allergens.Through a multidisciplinary collaboration between Adult Allergy, Gastroenterology, and Dietetics, we launched a service to provide dietary intervention for adults with EoE in a UK tertiary referral centre. We recently undertook a retrospective evaluation with the aim to describe the clinical phenotype of EoE in our service and to determine the clinico‐pathological response to dietary or medical interventions in this cohort (GSTT service evaluation 6195)."
+abstract_short = "Dietary intervention is effective for the management of eosinophilic oesophagitis (EoE) in both adults and children. The majority of research has been conducted in Spain or the United States, with no studies of dietary intervention published in the United Kingdom. Restrictive elimination diets can be challenging and swallowed topical corticosteroids have also been shown to be an effective treatment in adults. Despite their efficacy, disadvantages include risk of candidiasis,3 potential long‐term effects such as adrenal suppression3 and off‐label medication use. Proton pump inhibitors (PPIs) are effective for a proportion of patients  although with both PPIs and corticosteroids, the underlying triggers of this presumed antigen‐mediated condition are not identified and continued use is required to maintain efficacy. A key aspect in the management of any allergic disease is avoidance of relevant allergens.."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -34,29 +35,29 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+#projects = ["internal-project"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_code = "#"
-url_dataset = "#"
-url_project = ""
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+# url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+# url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+# url_code = "#"
+# url_dataset = "#"
+# url_project = ""
+# url_slides = "#"
+# url_video = "#"
+# url_poster = "#"
+#url_source = "https://onlinelibrary.wiley.com/doi/full/10.1111/cea.13279"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+#url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1111/cea.13279"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -72,4 +73,4 @@ math = true
   focal_point = ""
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+

@@ -94,17 +94,6 @@
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
-    </item>
-    
-    <item>
       <title>Tags</title>
       <link>/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
@@ -138,6 +127,15 @@ I am a teaching instructor for the following courses at University X:
       
       <guid>/home/talks/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>+++ # Custom widget. # An example of using the custom widget to create your own homepage section. # To create more sections, duplicate this file and edit the values below as desired. widget = &amp;ldquo;custom&amp;rdquo; active = true date = 2016-04-20T00:00:00 # Note: a full width section format can be enabled by commenting out the title and subtitle with a #. title = &amp;ldquo;Teaching&amp;rdquo; subtitle = &amp;ldquo;&amp;rdquo; # Order that this section will appear in.</description>
     </item>
     
   </channel>
