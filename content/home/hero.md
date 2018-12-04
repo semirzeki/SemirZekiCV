@@ -20,17 +20,15 @@ weight = 3
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  #url = "./post/getting-started/"
-  #label = '<i class="fas fa-download"></i> Install Now'
+  url = "./post/getting-started/"
+  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
- MBBS MRCP MA MSc MRCP :rocket:
-Gastroenterology Consultant
-St Thomas' Hospital, London
+MBBS MRCP MA MSc PhD 
 <div style="margin-top: -0.5rem;">
-  <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
-  </a> 
+
 </div>
 <div class="mt-3">
-  <a class="github-button"  ></a>
+
 </div>
+
