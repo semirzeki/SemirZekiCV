@@ -28,26 +28,26 @@ weight = 7
   description = "10%"
   
 [[feature]]
-  icon = "user-md"
-  icon_pack = "fas"
+  icon = "h-square custom"
+  icon_pack = "fa"
   name = "Endoscopic therapy"
   description = "10%"
   
 [[feature]]
-  icon = "user-md"
-  icon_pack = "fas"
+  icon = "stethoscope custom"
+  icon_pack = "fa"
   name = "Gastrointestinal cancer"
   description = "10%"
   
 [[feature]]
-  icon = "user-md"
-  icon_pack = "fas"
+  icon = "plus-square custom"
+  icon_pack = "fa"
   name = "Eosinophilic oesophagitis"
   description = "10%"
   
 [[feature]]
-  icon = "user-md"
-  icon_pack = "fas"
+  icon = "stethoscope custom"
+  icon_pack = "fa"
   name = "Oesophageal physiology"
   description = "10%"
   
