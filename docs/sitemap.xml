@@ -44,14 +44,6 @@
     
     <url>
     
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -84,7 +76,7 @@
     
     <url>
     
-      <loc>/publication/person-re-id/</loc>
+      <loc>/publication/rebus_biomarker_panel/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -94,6 +86,14 @@
     
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/endominer/</loc>
+      <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -171,6 +171,15 @@
     <url>
     
       <loc>/publication_types/</loc>
+      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
       <lastmod>2015-09-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

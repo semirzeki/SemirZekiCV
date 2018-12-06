@@ -13,12 +13,21 @@
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
+      <title>A biomarker panel predicts progression of Barrett&#39;s esophagus to esophageal adenocarcinoma</title>
+      <link>/publication/rebus_biomarker_panel/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/person-re-id/</guid>
+      <guid>/publication/rebus_biomarker_panel/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>EndoMineR for the extraction of endoscopic and associated pathology data from medical reports</title>
+      <link>/publication/endominer/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/endominer/</guid>
+      <description></description>
     </item>
     
     <item>
