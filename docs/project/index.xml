@@ -13,11 +13,38 @@
     
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
+      <title>EndoMineR</title>
+      <link>/project/endominer/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/external-project/</guid>
+      <guid>/project/endominer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/copyofcopyofcopyofendominer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/copyofcopyofcopyofendominer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/copyofcopyofendominer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/copyofcopyofendominer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/copyofendominer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/copyofendominer/</guid>
       <description></description>
     </item>
     

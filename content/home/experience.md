@@ -25,14 +25,15 @@ date_format = "January 2006"
   company = "Guy's & St Thomas' NHS Trust"
   company_url = "https://www.guysandstthomas.nhs.uk/our-services/consultant-profiles/gastroenterology/sebastian-zeki.aspx"
   location = "London"
-  date_start = "2016-04-01"
+  date_start = "2015-04-01"
 
 [[experience]]
   title = "Clinical Lecturer"
-  company = "Cambridge University"
+  company = "Cambridge University: MRC Hutchison"
   company_url = "http://cambridge.academia.edu/SZeki"
-  location = "Cambridge"
-  date_start = "2013-01-01"
+  location = " Cambridge"
+  date_start = "2013-06-01"
+  date_end = "2015-04-01"
 
 [[experience]]
   title = "PhD student"
@@ -40,17 +41,19 @@ date_format = "January 2006"
   company_url = "http://www.researchpublications.qmul.ac.uk/publications/staff/27307.html"
   location = "London"
   date_start = "2010-01-01"
+  date_end = "2013-06-01"
 
 [[experience]]
   title = "Gastroenterology registrar"
   company = "North West Thame's Training Rotation"
   location = "London"
-  date_start = "2006-01-01"
+  date_start = "2006-06-01"
+  date_end = "2016-01-01"
 
 [[experience]]
   title = "Postgraduate internal medicine training"
   location = "London"
-  date_start = "2001-01-01"
-
+  date_start = "2001-06-01"
+  date_end = "2006-06-01"
 
 +++

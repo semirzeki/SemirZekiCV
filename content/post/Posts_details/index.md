@@ -23,6 +23,9 @@ summary = "Institute for the development of reprodicible methodologies for the a
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 
+# Optional external URL for project (replaces project detail page).
+external_link = "http://gastrods.co.uk"
+
 
 # Set captions for image gallery.
 

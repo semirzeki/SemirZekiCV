@@ -101,11 +101,38 @@
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
+      <title>EndoMineR</title>
+      <link>/project/endominer/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/external-project/</guid>
+      <guid>/project/endominer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/copyofcopyofcopyofendominer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/copyofcopyofcopyofendominer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/copyofcopyofendominer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/copyofcopyofendominer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/copyofendominer/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/copyofendominer/</guid>
       <description></description>
     </item>
     
@@ -151,33 +178,6 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>/publication/rebus_biomarker_panel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A biomarker panel predicts progression of Barrett&#39;s esophagus to esophageal adenocarcinoma</title>
-      <link>/publication/stemcellimpcolonicstemcell/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/stemcellimpcolonicstemcell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clonal Selection and Persistence in Dysplastic Barrett&#39;s Esophagus and Intramucosal Cancers After Failed Radiofrequency Ablation</title>
-      <link>/publication/clonalpostrfa/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/clonalpostrfa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EndoMineR for the extraction of endoscopic and associated pathology data from medical reports</title>
-      <link>/publication/endominer/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/endominer/</guid>
       <description></description>
     </item>
     
