@@ -4,7 +4,7 @@ date = 2014-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Weaver JMJ", "Ross-Innes CS", "Shannon N", "Lynch AG", "Forshew T", "Barbera M", "Murtaza M", "Ong CJ", "Lao-Sirieix P", "Dunning MJ", "Smith L", "Smith ML", "Anderson CL", "Carvalho B", "O'Donovan M", "Underwood TJ", "May AP", "Grehan N", "Hardwick R", "Davies J", "Oloumi A"," Aparicio S", "Caldas C", "Eldridge MD", "Edwards PAW", "Rosenfeld N", "Tavaré S", "Fitzgerald RC"; "OCCAMS consortium"]
+authors = ["Weaver JMJ", "Ross-Innes CS", "Shannon N", "Lynch AG", "Forshew T", "Barbera M", "Murtaza M", "Ong CJ", "Lao-Sirieix P", "Dunning MJ", "Smith L", "Smith ML", "Anderson CL", "Carvalho B", "O'Donovan M", "Underwood TJ", "May AP", "Grehan N", "Hardwick R", "Davies J", "Oloumi A"," Aparicio S", "Caldas C", "Eldridge MD", "Edwards PAW", "Rosenfeld N", "Tavaré S", "Fitzgerald RC", "OCCAMS consortium"]
 
 # Publication type.
 # Legend:
