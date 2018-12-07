@@ -1,5 +1,5 @@
 +++
-title = "Academic: the website designer for Hugo"
+title = "Co-head of the Gsstroenterology Data Sciences Institute"
 subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
 
 date = 2016-04-20T00:00:00
@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Academic"]
-summary = "Create a beautifully simple website or blog in under 10 minutes."
+summary = "Institute for the development of reprodicible methodologies for the analysis of large dataset gastroenterology data"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

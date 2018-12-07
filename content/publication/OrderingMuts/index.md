@@ -18,7 +18,7 @@ authors = ["L C Duits",  "P Lao-Sirieix",  "W A Wolf",  "M O’Donovan",  "N Gal
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Diseases of the Esophagus, doy102*, IEEE."
+publication = "In *Diseases of the Esophagus*"
 publication_short = "In *Dis Oesoph*"
 
 # Abstract and optional shortened version.
@@ -80,4 +80,3 @@ math = true
   focal_point = ""
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
