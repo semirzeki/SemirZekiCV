@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Gastroenterology Book"
+title = "Gastro Book"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
@@ -19,7 +19,7 @@ external_link = "https://www.gastroenterologybook.com"
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by Toa Heftiba on Unsplash"
+  caption = "Gastroenterology book"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
