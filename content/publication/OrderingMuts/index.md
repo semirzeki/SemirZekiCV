@@ -1,10 +1,10 @@
 +++
-title = "A biomarker panel predicts progression of Barrett's esophagus to esophageal adenocarcinoma"
-date = 2015-09-01T00:00:00
+title = "Ordering of mutations in preinvasive disease stages of esophageal carcinogenesis"
+date = 2014-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L C Duits",  "P Lao-Sirieix",  "W A Wolf",  "M O’Donovan",  "N Galeano-Dalmau",  "S L Meijer", "G J A Offerhaus",  "J Redman",  "J Crawte",  "S Zeki",  "R E Pouw",  "A Chak",  "N J Shaheen", "J J G H M Bergman", "R  C Fitzgerald"]
+authors = ["Weaver JMJ", "Ross-Innes CS", "Shannon N", "Lynch AG", "Forshew T", "Barbera M", "Murtaza M", "Ong CJ", "Lao-Sirieix P", "Dunning MJ", "Smith L", "Smith ML", "Anderson CL", "Carvalho B", "O'Donovan M", "Underwood TJ", "May AP", "Grehan N", "Hardwick R", "Davies J", "Oloumi A"," Aparicio S", "Caldas C", "Eldridge MD", "Edwards PAW", "Rosenfeld N", "Tavaré S", "Fitzgerald RC"; "OCCAMS consortium"]
 
 # Publication type.
 # Legend:
@@ -18,12 +18,11 @@ authors = ["L C Duits",  "P Lao-Sirieix",  "W A Wolf",  "M O’Donovan",  "N Gal
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Diseases of the Esophagus*"
+publication = "In *Nat Genet. 2014 Aug;46(8):837-843*"
 publication_short = "In *Dis Oesoph*"
 
 # Abstract and optional shortened version.
-abstract = "Progression from Barrett's esophagus (BE) to esophageal adenocarcinoma (EAC) is uncommon but the consequences are serious. Predictors of progression are essential to optimize resource utilization. This study assessed the utility of a promising panel of biomarkers applicable to routine paraffin embedded biopsies (FFPE) to predict progression of BE to EAC in a large population-based, nested case-control study.We utilized the Amsterdam-based ReBus nested case-control cohort. BE patients who progressed to high-grade dysplasia (HGD)/EAC (n = 130) and BE patients who never progressed (n = 130) were matched on age, sex, length of the BE segment, and duration of endoscopic surveillance. All progressors had minimum 2 years of endoscopic surveillance without HGD/EAC to exclude prevalent neoplasia. We assessed abnormal DNA content, p53, Cyclin A, and Aspergillus oryzae lectin (AOL) in FFPE sections. We performed conditional logistic regression analysis to estimate odds ratio (OR) of progression based on biomarker status.Expert LGD (OR, 8.3; 95% CI, 1.7–41.0), AOL (3 vs. 0 epithelial compartments abnormal; OR, 3.6; 95% CI, 1.2–10.6) and p53 (OR, 2.3; 95% CI, 1.2–4.6) were independently associated with neoplastic progression. Cyclin A did not predict progression and DNA ploidy analysis by image cytometry was unsuccessful in the majority of cases, both were excluded from the multivariate analysis. The multivariable biomarker model had an area under the receiver operating characteristic curve of 0.73.Expert LGD, AOL, and p53 independently predict neoplastic progression in BE patients and are applicable to routine practice. These biomarkers can aid in selecting patients for endoscopic ablation or more intensive surveillance."
-abstract_short = "Progression from Barrett's esophagus (BE) to esophageal adenocarcinoma (EAC) is uncommon but the consequences are serious. Predictors of progression are essential to optimize resource utilization. This study assessed the utility of a promising panel of biomarkers applicable to routine paraffin embedded biopsies (FFPE) to predict progression of BE to EAC in a large population-based, nested case-control study.We utilized the Amsterdam-based ReBus nested case-control cohort. BE patients who progressed to high-grade dysplasia (HGD)/EAC (n = 130) and BE patients who never progressed (n = 130) were matched on age, sex, length of the BE segment, and duration of endoscopic surveillance. All progressors had minimum 2 years of endoscopic surveillance without HGD/EAC to exclude prevalent neoplasia. We assessed abnormal DNA content, p53, Cyclin A, and Aspergillus oryzae lectin (AOL) in FFPE sections. We performed conditional logistic regression analysis to estimate odds ratio (OR) of progression based on biomarker status.Expert LGD (OR, 8.3; 95% CI, 1.7–41.0), AOL (3 vs. 0 epithelial compartments abnormal; OR, 3.6; 95% CI, 1.2–10.6) and p53 (OR, 2.3; 95% CI, 1.2–4.6) were independently associated with neoplastic progression. Cyclin A did not predict progression and DNA ploidy analysis by image cytometry was unsuccessful in the majority of cases, both were excluded from the multivariate analysis. The multivariable biomarker model had an area under the receiver operating characteristic curve of 0.73.Expert LGD, AOL, and p53 independently predict neoplastic progression in BE patients and are applicable to routine practice. These biomarkers can aid in selecting patients for endoscopic ablation or more intensive surveillance."
+abstract = "Cancer genome sequencing studies have identified numerous driver genes, but the relative timing of mutations in carcinogenesis remains unclear. The gradual progression from premalignant Barrett's esophagus to esophageal adenocarcinoma (EAC) provides an ideal model to study the ordering of somatic mutations. We identified recurrently mutated genes and assessed clonal structure using whole-genome sequencing and amplicon resequencing of 112 EACs. We next screened a cohort of 109 biopsies from 2 key transition points in the development of malignancy: benign metaplastic never-dysplastic Barrett's esophagus (NDBE; n=66) and high-grade dysplasia (HGD; n=43). Unexpectedly, the majority of recurrently mutated genes in EAC were also mutated in NDBE. Only TP53 and SMAD4 mutations occurred in a stage-specific manner, confined to HGD and EAC, respectively. Finally, we applied this knowledge to identify high-risk Barrett's esophagus in a new non-endoscopic test. In conclusion, mutations in EAC driver genes generally occur exceptionally early in disease development with profound implications for diagnostic and therapeutic strategies.."
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -64,7 +63,7 @@ tags = []
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1093/dote/doy102"
+doi = "doi: 10.1038/ng.3013"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
