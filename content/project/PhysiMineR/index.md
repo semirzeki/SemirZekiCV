@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "External Project"
+title = "PhysiMineR for the extraction of upper GI physiology data"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "A package written in R for the analysis of upper GI physiology dataset"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

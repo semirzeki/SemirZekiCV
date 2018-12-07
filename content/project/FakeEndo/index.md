@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "External Project"
+title = "Synthetic Endoscopy data"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00

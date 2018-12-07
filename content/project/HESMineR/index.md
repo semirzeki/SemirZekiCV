@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "External Project"
+title = "Synthetic Hospital Epsiode Statistics Data"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "A methodology for the creation of synthetic data."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
