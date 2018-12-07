@@ -13,7 +13,7 @@ summary = "An example of linking directly to an external project website using `
 tags = ["Demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://gastrods.co.uk"
+external_link = "https://github.com/sebastiz/PhysiMineR"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
