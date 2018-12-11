@@ -66,7 +66,7 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
+  email = "sebastianzeki@googlemail.com"
   address = "Gastroenterology Dept, St Thomas' Hospital, Westminster Bridge Road, London SE1 7EH"
   office_hours = "Monday 08:00 to 18:00 or email for appointment"
   phone = "02071887188"
