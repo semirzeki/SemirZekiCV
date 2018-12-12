@@ -44,14 +44,6 @@
     
     <url>
     
-      <loc>/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     </url>
@@ -77,6 +69,14 @@
     <url>
     
       <loc>/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
