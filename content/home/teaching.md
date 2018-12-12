@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-I teach in both data sciences and gastroenterolgy 
+I teach in both data sciences and gastroenterology 
 
 
 
