@@ -13,14 +13,12 @@
     
     
     <item>
-      <title>Example Page</title>
-      <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Gastroenterology free online textbook</title>
+      <link>/tutorial/gastrobook/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tutorial/example/</guid>
-      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
-Tip 1 &amp;hellip;
-Tip 2 &amp;hellip;</description>
+      <guid>/tutorial/gastrobook/</guid>
+      <description></description>
     </item>
     
   </channel>

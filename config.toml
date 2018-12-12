@@ -317,8 +317,8 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "#talks"
+  name = "Teaching"
+  url = "#teaching"
   weight = 5
 
 [[menu.main]]

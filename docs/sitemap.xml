@@ -36,14 +36,6 @@
     
     <url>
     
-      <loc>/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     </url>
@@ -125,6 +117,14 @@
     <url>
     
       <loc>/post/posts_details/</loc>
+      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/gastrobook/</loc>
       <lastmod>2018-01-13T00:00:00+00:00</lastmod>
     </url>
     
