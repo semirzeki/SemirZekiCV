@@ -19,13 +19,13 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Clinical Medicine*, 2014 Dec 1;14(78-83)"
-publication_short = "In *Clin Med*"
+#publication_short = "In *Clin Med*"
 
 # Abstract and optional shortened version.
 abstract = "Barretts oesophagus represents the most significant risk factor for the development of oesophageal adenocarcinoma (OAC), although the majority of patients will not develop cancer. However, early detection of OAC and its precursors significantly improves outcome and underlines the importance of endoscopic surveillance programmes. Clearly there is a discrepancy between the small number of people who need to undergo surveillance because they are at significant progression risk, and the large number that do. Research is therefore now concentrated on risk stratification. Currently such stratification is currently based on clinical findings, endoscopic diagnosis and histopathological grade. Histopathology can be imperfect and is likely to require molecular confirmation of different grades, thus molecular stratification is becoming more important in this regard and p53 immunohistochemistry is already clinically useful, with other molecular biomarkers likely to prove beneficial in the future. The hope is that non-endoscopic methods, such as the Cytosponge may be able to combine molecular biomarkers with histopathology and therefore perhaps benefit a population screening as well as a surveillance programme."
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -33,7 +33,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+#projects = []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
