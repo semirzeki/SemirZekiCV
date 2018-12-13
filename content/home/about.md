@@ -51,5 +51,5 @@ year = 2003
 
 # Biography
 
-Sebastian Zeki is a consulant gastroenterologist at St Thomas' Hospital in London. His research interests include upper gastrointestinal physiology, upper gastrointestinal cancer, natural language programming and quality metrics in endoscopy. He co-leads the Gastroenterology data sciences Institute in London.
+Dr. Sebastian Zeki is a consulant gastroenterologist at St Thomas' Hospital in London. His research interests include upper gastrointestinal physiology, upper gastrointestinal cancer, natural language programming and quality metrics in endoscopy. He co-leads the Gastroenterology data sciences Institute in London.
 

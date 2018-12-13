@@ -13,7 +13,7 @@ publishDir = "docs"
 relativeURLs = true
 
 # Title of your site
-title = "Dr Sebastian Zeki"
+title = "Dr Sebastian Zeki - Academic profile"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -55,7 +55,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Sebastian Zeki"
+  name = "Dr Sebastian Zeki MA MSc MRCP PhD"
   role = "Consultant Gastroenterologist"
 
   # Organizations/Affiliations.
