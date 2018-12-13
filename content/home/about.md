@@ -29,7 +29,6 @@ year = 2013
 
 [[education.courses]]
 course = "Member of the Royal College of Physician"
-institution = "Stanford University"
 year = 2006
   
 [[education.courses]]
