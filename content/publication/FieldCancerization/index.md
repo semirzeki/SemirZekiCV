@@ -18,7 +18,7 @@ authors = ["Zeki SS", "Graham TA", "Wright NA"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Discovery medicine. 2011 Nov;12(66):371-9"
+publication = "In *Discovery medicine. 2011 Nov;12(66):371-9*"
 publication_short = "In *Disc Med*"
 
 # Abstract and optional shortened version.

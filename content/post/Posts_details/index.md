@@ -18,11 +18,12 @@ external_link = "https://nhsrcommunity.com/blog/how-to-extrapolate-data-from-dat
 
 # Set captions for image gallery.
 
-[[gallery_item]]
-#album = "gallery"
-#image = "theme-default.png"
-#caption = "Default"
+
 
 +++
+
+
+
+
 
 
