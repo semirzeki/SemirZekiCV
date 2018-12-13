@@ -63,7 +63,7 @@ enableGitInfo = false
   organizations = [ { name = "Guy's and St Thomas' NHS Trust", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "icon_CV_Website.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "sebastianzeki@googlemail.com"
