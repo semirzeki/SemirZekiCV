@@ -5,8 +5,8 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Publications"
-subtitle = ""
+title = "Selected Publications"
+subtitle = "[See all publications](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=%22Sebastian+Zeki%22&btnG=)"
 
 # Order that this section will appear in.
 weight = 20
