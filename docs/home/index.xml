@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Dr Sebastian Zeki - Academic profile</title>
-    <link>/home/</link>
+    <link>https://sebastiz.github.io/SebZeki_CV/home/</link>
     <description>Recent content in Homes on Dr Sebastian Zeki - Academic profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sebastiz.github.io/SebZeki_CV/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/hero_carousel/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/hero_carousel/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/about/</guid>
       <description>Biography Dr. Sebastian Zeki is a consultant gastroenterologist at St Thomas&amp;rsquo; Hospital in London. His research interests include upper gastrointestinal physiology, upper gastrointestinal cancer, natural language programming and quality metrics in endoscopy. He co-leads the Gastroenterology data sciences Institute in London.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>/home/skills/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/skills/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>/home/experience/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/experience/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>/home/publications/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>/home/talks_selected/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/talks_selected/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/home/posts/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/projects/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/teaching/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/teaching/</guid>
       <description>I teach in both data sciences and gastroenterology
  The Gastroenterology training book: A free online gatroenterology book comprising over 600 pages of one page topic summaries. Each page can create dynamically generated multiple choice questions so if you register (for free) you can do these and assess your knowledge and reading against all the other users
  Gastroenterology datascience: A free online tutorial to give you the basics of data sciences, exploratory analysis and data visualisation unsing R, the most commonly used data sciences language.</description>
@@ -97,28 +97,37 @@
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/hero/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/hero/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/contact/</guid>
+      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/hero/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/talks/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/home/talks/</guid>
       <description></description>
     </item>
     

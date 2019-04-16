@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Dr Sebastian Zeki - Academic profile</title>
-    <link>/publication/endominer/</link>
+    <link>https://sebastiz.github.io/SebZeki_CV/publication/endominer/</link>
     <description>Recent content in Publications on Dr Sebastian Zeki - Academic profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication/endominer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sebastiz.github.io/SebZeki_CV/publication/endominer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>EndoMineR for the extraction of endoscopic and associated pathology data from medical reports</title>
-      <link>/publication/endominer/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/publication/endominer/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/endominer/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/publication/endominer/</guid>
       <description></description>
     </item>
     

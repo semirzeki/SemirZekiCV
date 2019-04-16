@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on Dr Sebastian Zeki - Academic profile</title>
-    <link>/tutorial/</link>
+    <link>https://sebastiz.github.io/SebZeki_CV/tutorial/</link>
     <description>Recent content in Tutorials on Dr Sebastian Zeki - Academic profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sebastiz.github.io/SebZeki_CV/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gastroenterology free online textbook</title>
-      <link>/tutorial/gastrobook/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/tutorial/gastrobook/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tutorial/gastrobook/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/tutorial/gastrobook/</guid>
       <description></description>
     </item>
     

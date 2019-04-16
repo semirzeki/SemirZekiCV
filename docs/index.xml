@@ -2,66 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr Sebastian Zeki - Academic profile on Dr Sebastian Zeki - Academic profile</title>
-    <link>/</link>
+    <link>https://sebastiz.github.io/SebZeki_CV/</link>
     <description>Recent content in Dr Sebastian Zeki - Academic profile on Dr Sebastian Zeki - Academic profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/SebZeki_CV/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Field cancerization in Barrett&#39;s esophagus.</title>
-      <link>/publication/fieldcancerization/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/publication/fieldcancerization/</link>
       <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/fieldcancerization/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/publication/fieldcancerization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Targeting care in Barrett&#39;s oesophagus</title>
-      <link>/publication/targetingcare/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/publication/targetingcare/</link>
       <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/targetingcare/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/publication/targetingcare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The stem cell organisation, and the proliferative and gene expression profile of Barrett&#39;s epithelium, replicates pyloric-type gastric glands</title>
-      <link>/publication/stemcellorganisationandproliferative/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/publication/stemcellorganisationandproliferative/</link>
       <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/stemcellorganisationandproliferative/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/publication/stemcellorganisationandproliferative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The use of molecular markers in predicting dysplasia and guiding treatment.</title>
-      <link>/publication/molecularmarkers/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/publication/molecularmarkers/</link>
       <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/molecularmarkers/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/publication/molecularmarkers/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Example Talk</title>
-      <link>/talk/example/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/example/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
 
@@ -82,82 +72,91 @@
     
     <item>
       <title>EndoMineR</title>
-      <link>/project/endominer/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/project/endominer/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/endominer/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/project/endominer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gastro Book</title>
-      <link>/project/gastrobook/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/project/gastrobook/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/gastrobook/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/project/gastrobook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhysiMineR for the extraction of upper GI physiology data</title>
-      <link>/project/physiminer/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/project/physiminer/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/physiminer/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/project/physiminer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Endoscopy data</title>
-      <link>/project/fakeendo/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/project/fakeendo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/fakeendo/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/project/fakeendo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Hospital Epsiode Statistics Data</title>
-      <link>/project/hesminer/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/project/hesminer/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/hesminer/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/project/hesminer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gastroenterology free online textbook</title>
-      <link>/tutorial/gastrobook/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/tutorial/gastrobook/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tutorial/gastrobook/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/tutorial/gastrobook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to extract data from data</title>
-      <link>/post/posts_details/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/post/posts_details/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/posts_details/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/post/posts_details/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A biomarker panel predicts progression of Barrett&#39;s esophagus to esophageal adenocarcinoma</title>
-      <link>/publication/rebus_biomarker_panel/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/publication/rebus_biomarker_panel/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/rebus_biomarker_panel/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/publication/rebus_biomarker_panel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ordering of mutations in preinvasive disease stages of esophageal carcinogenesis</title>
-      <link>/publication/orderingmuts/</link>
+      <link>https://sebastiz.github.io/SebZeki_CV/publication/orderingmuts/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/publication/orderingmuts/</guid>
+      <guid>https://sebastiz.github.io/SebZeki_CV/publication/orderingmuts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clonal Selection and Persistence in Dysplastic Barrett&#39;s Esophagus and Intramucosal Cancers After Failed Radiofrequency Ablation</title>
+      <link>https://sebastiz.github.io/SebZeki_CV/publication/clonalpostrfa/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://sebastiz.github.io/SebZeki_CV/publication/clonalpostrfa/</guid>
       <description></description>
     </item>
     
