@@ -1,95 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Dr Sebastian Zeki - Academic profile</title>
-    <link>https://sebastiz.github.io/SebZeki_CV/home/</link>
-    <description>Recent content in Homes on Dr Sebastian Zeki - Academic profile</description>
+    <title>Homes on Semir Zeki - Visual Laboratory</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Semir Zeki - Visual Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sebastiz.github.io/SebZeki_CV/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/hero_carousel/</link>
+      <link>/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/hero_carousel/</guid>
+      <guid>/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/about/</guid>
-      <description>Biography Dr. Sebastian Zeki is a consultant gastroenterologist at St Thomas&amp;rsquo; Hospital in London. His research interests include upper gastrointestinal physiology, upper gastrointestinal cancer, natural language programming and quality metrics in endoscopy. He co-leads the Gastroenterology data sciences Institute in London.</description>
+      <guid>/home/about/</guid>
+      <description>Biography The Laboratory of Neurobiology is devoted to the study of the visual brain, its organization and its functioning in health and in disease.
+We use a variety of techniques: anatomical to study the structure and connections of the visual brain; electro-physiological and electro-encephalographic to study the way in which cells constituting the visual brain respond to visual stimuli; psychophysical to study the perceptual capacities and limitations of the visual brain; imaging to determine the location and functioning of the many parallel and specialized sub-systems in the visual brain; and inactivation techniques to learn about what happens when a given area of the visual brain is temporarily and reversibly inactivated.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/skills/</link>
+      <link>/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/skills/</guid>
+      <guid>/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/experience/</link>
+      <link>/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/experience/</guid>
+      <guid>/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/talks_selected/</link>
+      <link>/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/talks_selected/</guid>
+      <guid>/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/teaching/</link>
+      <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description>I teach in both data sciences and gastroenterology
  The Gastroenterology training book: A free online gatroenterology book comprising over 600 pages of one page topic summaries. Each page can create dynamically generated multiple choice questions so if you register (for free) you can do these and assess your knowledge and reading against all the other users
  Gastroenterology datascience: A free online tutorial to give you the basics of data sciences, exploratory analysis and data visualisation unsing R, the most commonly used data sciences language.</description>
@@ -97,37 +98,46 @@
     
     <item>
       <title>Contact</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/contact/</link>
+      <link>/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/contact/</guid>
+      <guid>/home/about/</guid>
       <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/hero/</link>
+      <link>/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/hero/</guid>
+      <guid>/home/contact/</guid>
+      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/hero/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://sebastiz.github.io/SebZeki_CV/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     

@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Endoscopic therapy",
+    "Neurobiology of vision",
     "Oesophageal/stomach cancers",
     "Oesophageal physiology",
     "Eosinophilic oesophagitis",
@@ -50,5 +50,11 @@ year = 2003
 
 # Biography
 
-Dr. Sebastian Zeki is a consultant gastroenterologist at St Thomas' Hospital in London. His research interests include upper gastrointestinal physiology, upper gastrointestinal cancer, natural language programming and quality metrics in endoscopy. He co-leads the Gastroenterology data sciences Institute in London.
+The Laboratory of Neurobiology is devoted to the study of the visual brain, its organization and its functioning in health and in disease.
+
+We use a variety of techniques: anatomical to study the structure and connections of the visual brain; electro-physiological and electro-encephalographic to study the way in which cells constituting the visual brain respond to visual stimuli; psychophysical to study the perceptual capacities and limitations of the visual brain; imaging to determine the location and functioning of the many parallel and specialized sub-systems in the visual brain; and inactivation techniques to learn about what happens when a given area of the visual brain is temporarily and reversibly inactivated. We also study patients whose visual brain is damaged in order to characterize better how the visual brain functions.
+
+More recently, we have used the information gained from the study of the brain over the past forty years to study the relationship of visual art to the functioning of the visual brain, the field which we refer to as neuroesthetics.
+
+The Laboratory of Neurobiology is supported by the Wellcome Trust, London.
 

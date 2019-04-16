@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Dr Sebastian Zeki - Academic profile</title>
-    <link>https://sebastiz.github.io/SebZeki_CV/tags/academic/</link>
-    <description>Recent content in Academic on Dr Sebastian Zeki - Academic profile</description>
+    <title>Academic on Semir Zeki - Visual Laboratory</title>
+    <link>/tags/academic/</link>
+    <description>Recent content in Academic on Semir Zeki - Visual Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sebastiz.github.io/SebZeki_CV/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gastroenterology free online textbook</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/tutorial/gastrobook/</link>
+      <link>/tutorial/gastrobook/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/tutorial/gastrobook/</guid>
+      <guid>/tutorial/gastrobook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to extract data from data</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/post/posts_details/</link>
+      <link>/post/posts_details/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/post/posts_details/</guid>
+      <guid>/post/posts_details/</guid>
       <description></description>
     </item>
     

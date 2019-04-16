@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo on Dr Sebastian Zeki - Academic profile</title>
-    <link>https://sebastiz.github.io/SebZeki_CV/tags/demo/</link>
-    <description>Recent content in Demo on Dr Sebastian Zeki - Academic profile</description>
+    <title>Demo on Semir Zeki - Visual Laboratory</title>
+    <link>/tags/demo/</link>
+    <description>Recent content in Demo on Semir Zeki - Visual Laboratory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sebastiz.github.io/SebZeki_CV/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>EndoMineR</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/project/endominer/</link>
+      <link>/project/endominer/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/project/endominer/</guid>
+      <guid>/project/endominer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gastro Book</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/project/gastrobook/</link>
+      <link>/project/gastrobook/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/project/gastrobook/</guid>
+      <guid>/project/gastrobook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhysiMineR for the extraction of upper GI physiology data</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/project/physiminer/</link>
+      <link>/project/physiminer/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/project/physiminer/</guid>
+      <guid>/project/physiminer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Endoscopy data</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/project/fakeendo/</link>
+      <link>/project/fakeendo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/project/fakeendo/</guid>
+      <guid>/project/fakeendo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Hospital Epsiode Statistics Data</title>
-      <link>https://sebastiz.github.io/SebZeki_CV/project/hesminer/</link>
+      <link>/project/hesminer/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sebastiz.github.io/SebZeki_CV/project/hesminer/</guid>
+      <guid>/project/hesminer/</guid>
       <description></description>
     </item>
     
